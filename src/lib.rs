@@ -1,6 +1,5 @@
 //#![feature(allocator_api)]
 
-
 #[cfg(test)]
 mod tests {
 
@@ -11,5 +10,6 @@ mod tests {
     }
 }
 
-#[cfg(feature = "jdsdk")]
-pub mod jdsdk;
+#[cfg(feature = "jdy")]
+pub mod jdy;
+pub mod request;
