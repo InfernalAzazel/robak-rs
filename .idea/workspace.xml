@@ -8,13 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38d93a8a-8600-4339-84f7-1f876f7bf716" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jdy.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/request.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/examples/jd.rs" beforeDir="false" afterPath="$PROJECT_DIR$/examples/jd.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jdsdk.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jdy.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/jdy.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +85,9 @@
       <workItem from="1631773504643" duration="22523000" />
       <workItem from="1631883792403" duration="11284000" />
       <workItem from="1631976895159" duration="503000" />
-      <workItem from="1631978365471" duration="11829000" />
+      <workItem from="1631978365471" duration="23136000" />
+      <workItem from="1632151415958" duration="10948000" />
+      <workItem from="1632311628169" duration="11590000" />
     </task>
     <servers />
   </component>
@@ -105,5 +104,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
