@@ -1,5 +1,5 @@
 [package]
-name = "yetai-rs"
+name = "robak-rs"
 version = "0.0.1"
 edition = "2018"
 authors = ["kylin"]
