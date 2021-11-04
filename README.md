@@ -1,2 +1,2 @@
 # yetai-rs
-rust 椰泰模块
+rust 简道云API接口调用封装库
